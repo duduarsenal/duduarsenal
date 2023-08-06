@@ -1,9 +1,6 @@
-<h3> > Olá, me chamo Eduardo</h3>
-<h3> > Desenvolvedor Web/Front-End</h3>
-<h3> > Estudando para se tornar um FULLSTACK</h3>
 <div style="width: 100%;">
-   <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+   <a href="https://github.com/duduarsenal/duduarsenal/blob/main/welcome.svg">
+     <img src="welcome.svg" style="width: 100%;">
    </a>
 </div>
 
