@@ -6,5 +6,5 @@
  </a>
 
 <a href="https://github.com/duduarsenal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=duduarsenal&show_icons=true&theme=dracula&line_height=27" alt="Eduardo Souza github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=duduarsenal&show_icons=true&theme=dracula&line_height=27" alt="Dudu github stats"/>
 </a>
