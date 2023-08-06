@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-   <a href="https://github.com/duduarsenal/duduarsenal/blob/main/welcome.svg">
+   <a href="https://github.com/duduarsenal">
      <img src="welcome.svg" style="width: 100%;">
    </a>
 </div>
