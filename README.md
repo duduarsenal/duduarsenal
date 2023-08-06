@@ -2,14 +2,8 @@
    <a href="https://github.com/duduarsenal">
      <img src="welcome.svg" style="width: 100%;">
    </a>
-</div>
 
-<h4>Portfólio
- 
- [![My Skills](https://skillicons.dev/icons?i=devto)]([Portfólio](https://portfoliodudu.vercel.app))
-</h4>
-<hr/>
- 
+
  <h1>Tecnologias</h1>
  
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,php,mysql,nodejs,nextjs,typescript)](https://skillicons.dev)
