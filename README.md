@@ -1,10 +1,30 @@
- ## **GitHub Estatísticas**
+<h3> > Olá, me chamo Eduardo</h3>
+<h3> > Desenvolvedor Web/Front-End</h3>
+<h3> > Estudando para se tornar um FULLSTACK</h3>
+<div style="width: 100%;">
+   <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+   </a>
+</div>
 
+<h4>Portfólio
+ 
+ [![My Skills](https://skillicons.dev/icons?i=devto)]([Portfólio](https://portfoliodudu.vercel.app))
+</h4>
+<hr/>
+ 
+ <h1>Tecnologias</h1>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,php,mysql,nodejs,nextjs,typescript)](https://skillicons.dev)
 
- <a  href="https://github.com/duduarsenal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduarsenal&theme=dracula&hide_langs_below=1" />
- </a>
+ <br>
+ 
+ <h1>GitHub Estatísticas</h1>
 
-<a href="https://github.com/duduarsenal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=duduarsenal&show_icons=true&theme=dracula&line_height=27" alt="Dudu github stats"/>
-</a>
+  <a href="https://github.com/duduarsenal">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduarsenal&theme=dark&hide_langs_below=1" />
+  </a>
+ &nbsp;
+  <a href="https://github.com/duduarsenal">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=duduarsenal&show_icons=true&theme=dark&line_height=27" alt="Dudu github stats"/>
+  </a>
