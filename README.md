@@ -13,8 +13,21 @@ Essa experiência ampliou meus conhecimentos e trouxe esperança para meu cresci
 <h2 align="left">
  Linguagens:
 </h2>
+
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,php,mysql,nodejs,nextjs,typescript)](https://skillicons.dev)
 
+<h2 align="left">
+  Entre em Contato:
+  
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dudu-arsenal/)
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduardo.s.s13/)
+</h2>
+  <h2 align="left">
+    Meu Portfólio
+    
+  [![Portfólio](https://skillicons.dev/icons?i=devto)](https://portfoliodudu.vercel.app)
+  
+  </h2>
  <br>
  
  <h1>GitHub Estatísticas</h1>
