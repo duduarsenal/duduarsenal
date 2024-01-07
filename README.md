@@ -19,7 +19,7 @@ Essa experiência ampliou meus conhecimentos e trouxe esperança para meu cresci
 <h2 align="left">
   Entre em Contato:
   
-  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dudu-arsenal/)
+  [![Linkedin]](https://www.linkedin.com/in/dudu-arsenal/)
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduardo.s.s13/)
 </h2>
   <h2 align="left">
