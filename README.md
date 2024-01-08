@@ -11,21 +11,34 @@ Nos dias 09 e 10 de Dezembro de 2023 eu participei de um <strong>Hackaton</stron
 Projeto: [Gestão de Emergências](https://www.linkedin.com/posts/abtra_euapoioportohacksts-abtra-camps-activity-7140795969264168960-gvM9?utm_source=share&utm_medium=member_desktop)
 <br>
 
-### Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,php,mysql,nodejs,nextjs,typescript)](https://skillicons.dev)
+## Tecnologias
 
-### Entre em Contato:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dudu-arsenal/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eduardo.s.s13/)
+#### Tenho Conhecimento:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### Aprendendo:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### Portfólio
-[![Portfólio](https://skillicons.dev/icons?i=devto)](https://portfoliodudu.vercel.app)
+## Contato
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dudu-arsenal/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduardo.s.s13/)
+[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-000000.svg?style=for-the-badge&logo=codersrank&logoColor=FFF)](https://portfoliodudu.vercel.app)
 <br>
 
+## Estatísticas
 <a href="https://github.com/duduarsenal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduarsenal&theme=shadow_red&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduarsenal&theme=dark&hide_langs_below=1" />
 </a>
 &nbsp;
 <a href="https://github.com/duduarsenal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duduarsenal&show_icons=true&theme=shadow_red&line_height=27" alt="Dudu github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duduarsenal&show_icons=true&theme=dark&line_height=27" alt="Dudu github stats"/>
 </a>
