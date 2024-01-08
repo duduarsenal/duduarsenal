@@ -21,11 +21,11 @@ Projeto: [Gestão de Emergências](https://www.linkedin.com/posts/abtra_euapoiop
 ### Portfólio
 [![Portfólio](https://skillicons.dev/icons?i=devto)](https://portfoliodudu.vercel.app)
 <br>
-## GitHub Estatísticas
+
 <a href="https://github.com/duduarsenal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduarsenal&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduarsenal&theme=shadow_red&hide_langs_below=1" />
 </a>
 &nbsp;
 <a href="https://github.com/duduarsenal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duduarsenal&show_icons=true&theme=dark&line_height=27" alt="Dudu github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duduarsenal&show_icons=true&theme=shadow_red&line_height=27" alt="Dudu github stats"/>
 </a>
