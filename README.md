@@ -4,7 +4,7 @@
 <p align="left"> 
 Muito prazer, me chamo Eduardo tenho 22 anos e sou um <strong>Desenvolvedor FullStack</strong>.
 
-Sou um jovem com muita disposição e vontade de ingressar no mundo da tecnologia. Estou cursando (4° semestre) Analise e Desenvolvimento de Sistemas e me dedico a cursos para ampliar meus conhecimentos nas tecnologias atuais. Sou curioso, dedicado e tenho uma facilidade enorme para o aprendizado.
+Sou um jovem com muita disposição e vontade de resolver qualquer problema. Estou cursando (4° semestre) Analise e Desenvolvimento de Sistemas e me dedico a cursos pra ampliar meus conhecimentos e melhorar minha prática na área usando as tecnologias mais atuais. Sou curioso, dedicado e tenho uma facilidade enorme para o aprendizado.
 
 Já participei de um <strong>Hackaton</strong>, onde propusemos e desenvolvemos uma solução para um problema na região Portuária de Santos em 36 horas, apresentando a uma banca de 12 jurados e vencendo a competição em 1° Lugar. 
 <br>
