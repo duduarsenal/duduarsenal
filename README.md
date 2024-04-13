@@ -4,9 +4,9 @@
 <p align="left"> 
 Muito prazer, me chamo Eduardo tenho 22 anos e sou um <strong>Desenvolvedor FullStack</strong>.
 
-Sou um jovem com muita disposição e vontade de ingressar no mundo da tecnologia. Estou cursando (4° semestre) Analise e Desenvolvimento de Sistemas e me dedico a cursos para ampliar meus conhecimentos nas tecnologias atuais. Sou curioso, dedicado, resiliente e tenho uma facilidade enorme para o aprendizado.
+Sou um jovem com muita disposição e vontade de ingressar no mundo da tecnologia. Estou cursando (4° semestre) Analise e Desenvolvimento de Sistemas e me dedico a cursos para ampliar meus conhecimentos nas tecnologias atuais. Sou curioso, dedicado e tenho uma facilidade enorme para o aprendizado.
 
-Nos dias 09 e 10 de Dezembro de 2023 eu participei de um <strong>Hackaton</strong>, onde propusemos e desenvolvemos uma solução para um problema na região Portuária de Santos em 36 horas, apresentando a uma banca de 12 jurados e vencendo a competição em 1° Lugar. 
+Já participei de um <strong>Hackaton</strong>, onde propusemos e desenvolvemos uma solução para um problema na região Portuária de Santos em 36 horas, apresentando a uma banca de 12 jurados e vencendo a competição em 1° Lugar. 
 <br>
 Projeto: [Gestão de Emergências](https://www.linkedin.com/posts/abtra_euapoioportohacksts-abtra-camps-activity-7140795969264168960-gvM9?utm_source=share&utm_medium=member_desktop)
 <br>
